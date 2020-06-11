@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'dev.maxc'
-version '1.0-TEMPLATE'
+version '1.0-ALPHA'
 
 repositories {
     mavenCentral()
