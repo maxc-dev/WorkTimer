@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<AnchorPane id="default" prefHeight="61.0" prefWidth="265.0" stylesheets="@style/pane.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.maxc.ui.MainController">
+<AnchorPane id="default" prefHeight="57.0" prefWidth="265.0" stylesheets="@style/pane.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.maxc.ui.MainController">
     <Label fx:id="timeDisplay" layoutX="106.0" layoutY="3.0" prefHeight="56.0" prefWidth="157.0" text="00:00:00" textFill="#28c7cd">
         <font>
           <Font name="Consolas" size="35.0" />
